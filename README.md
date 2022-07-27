@@ -9,7 +9,8 @@ bénévole a pour objectif de soutenir l’élève dans son apprentissage, à tr
 courts rendez-vous prévus chaque semaine. Durant ces rendez-vous, le bénévole
 aide l’élève à réaliser ses devoirs et à s’organiser.
 
-[](presentation1.png)
+![](presentation1.png)
+![](presentation2.png)
 
 Maquette
 --------
